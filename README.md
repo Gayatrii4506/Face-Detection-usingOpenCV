@@ -1,4 +1,4 @@
-# Face Detection using OpenCV
+# Face Detection using OpenCV and Python
 
 ## Overview
 This project demonstrates real-time face detection using OpenCV in Python. It utilizes the Haar cascade classifier to detect faces in a video stream from the webcam and highlights them with a bounding box.
